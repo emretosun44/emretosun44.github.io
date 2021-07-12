@@ -1,0 +1,12 @@
+console.clear();
+console.log("%c Hey Sen !", " color:red; font-size: 40pt");
+console.log("%c %s web sitesinin konsolunda ne arıyorsun ?", "color:#f1c40f; font-size: 9pt", window.location.hostname);
+console.log("%c Ben tahmin edeyim. ", "color:#f1c40f; font-size: 9pt");
+console.log("%c Büyük ihtimal yazılımcı veya siber güvenlik uzmanısın. ", "color:#f1c40f; font-size: 9pt");
+console.log("%c Veya bu web siteyi benim yaptığıma inanmadın. ", "color:#f1c40f; font-size: 9pt");
+console.log("%c Belki de yanlışlıkla konsolu açtın. ", "color:#f1c40f; font-size: 9pt");
+console.log("%c Her neyse sorun yok.", "color:#f1c40f; font-size: 9pt");
+console.log("%c İstediğin gibi konsolda takılabilirsin.", "color:#f1c40f; font-size: 9pt");
+console.log("%c Burada takıldıktan sonra benim web sitemi ziyaret etmeyi unutma.", "color:#f1c40f; font-size: 9pt");
+console.log("%c Web siteme https://ardacar.com bağlantısından ulaşabilirsin.", "color:#f1c40f; font-size: 9pt");
+console.log("%c Görüşmek üzere.", "color:#f1c40f; font-size: 9pt");
